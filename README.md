@@ -36,7 +36,7 @@
     As the project lead, i am happy to work with four amazing people of the team
     <br />
      </p>
-     <div align="right">
+     <div align="left">
      <ol>
     <li><a href="#usage">Idowu olalekan jeremiah</a></li>
     <li><a href="#roadmap">Dotun</a></li>
