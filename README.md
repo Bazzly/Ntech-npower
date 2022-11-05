@@ -42,7 +42,7 @@
     <li><a href="#license">Alhaja nimot</a></li>
     </ol>
     <br />
-    This people ara amazing and a great listner the make the project went so smoot been a good listener and contributor.
+These people are amazing and a great listener. They made the project go so smoothly by being a good listener and contributor.
   </p>
 </div>
 
@@ -69,10 +69,6 @@
 
 We have to redesign the above image. the project is not a responsive website for now, because this is a beginner project
 which member of the team need to be taught basic HTML and CSS by the team lead.
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
