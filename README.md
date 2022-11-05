@@ -36,12 +36,14 @@
     As the project lead, i am happy to work with four amazing people of the team
     <br />
      </p>
+     <div align="right">
      <ol>
     <li><a href="#usage">Idowu olalekan jeremiah</a></li>
     <li><a href="#roadmap">Dotun</a></li>
     <li><a href="#contributing">Olaoluwa Oluwatoyin Esther</a></li>
     <li><a href="#license">ADEGOKE NAFISAT MONINUOLA</a></li>
     </ol>
+    </div>
     <br />
       <p align="center">
 These people are amazing and a great listener. They made the project go so smoothly by being a good listener and contributor.
