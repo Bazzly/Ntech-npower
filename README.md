@@ -39,7 +39,7 @@
      <div align="left">
      <ol>
     <li><a href="#usage">Idowu olalekan jeremiah</a></li>
-    <li><a href="#roadmap">Dotun</a></li>
+    <li><a href="#roadmap">Adeyemi Adedotun Oluwajafunmi</a></li>
     <li><a href="#contributing">Olaoluwa Oluwatoyin Esther</a></li>
     <li><a href="#license">ADEGOKE NAFISAT MONINUOLA</a></li>
     </ol>
