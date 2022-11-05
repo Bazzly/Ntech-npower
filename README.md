@@ -71,7 +71,7 @@ These people are amazing and a great listener. They made the project go so smoot
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-<div>
+</div>
 We have to redesign the above image. the project is not a responsive website for now, because this is a beginner project
 which member of the team need to be taught basic HTML and CSS by the team lead.
 
