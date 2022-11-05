@@ -35,6 +35,7 @@
   <p align="center">
     As the project lead, i am happy to work with four amazing people of the team
     <br />
+     </p>
      <ol>
     <li><a href="#usage">JERRY</a></li>
     <li><a href="#roadmap">Dotun</a></li>
@@ -42,6 +43,7 @@
     <li><a href="#license">Alhaja nimot</a></li>
     </ol>
     <br />
+      <p align="center">
 These people are amazing and a great listener. They made the project go so smoothly by being a good listener and contributor.
   </p>
 </div>
