@@ -67,14 +67,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-We have to redesign the above image. the project is not target at a mobile device for a start because this is a beginner project 
+We have to redesign the above image. the project is not a responsive website for now, because this is a beginner project
 which member of the team need to be taught basic HTML and CSS by the team lead.
-
 
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
