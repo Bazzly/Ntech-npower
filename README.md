@@ -37,10 +37,10 @@
     <br />
      </p>
      <ol>
-    <li><a href="#usage">JERRY</a></li>
+    <li><a href="#usage">Idowu olalekan jeremiah</a></li>
     <li><a href="#roadmap">Dotun</a></li>
-    <li><a href="#contributing">Oluwatoyin</a></li>
-    <li><a href="#license">Alhaja nimot</a></li>
+    <li><a href="#contributing">Olaoluwa Oluwatoyin Esther</a></li>
+    <li><a href="#license">ADEGOKE NAFISAT MONINUOLA</a></li>
     </ol>
     <br />
       <p align="center">
