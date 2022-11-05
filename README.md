@@ -30,7 +30,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Npower programing project group c</h3>
+  <h3 align="center">NPOWER N-TECH(SOFTWARE) WEB DAVELOPMENT PROJECT - GROUP C</h3>
 
   <p align="center">
     As the project lead, i am happy to work with four amazing people of the team
@@ -69,8 +69,9 @@ These people are amazing and a great listener. They made the project go so smoot
 
 ## About The Project
 
+<div align="center">
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+<div>
 We have to redesign the above image. the project is not a responsive website for now, because this is a beginner project
 which member of the team need to be taught basic HTML and CSS by the team lead.
 
