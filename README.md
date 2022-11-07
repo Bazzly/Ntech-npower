@@ -38,7 +38,7 @@
      </p>
      <div align="left">
      <ol>
-    <li><a href="#">Idowu olalekan jeremiah</a></li>
+    <li><a href="https://github.com/oluwajerry081">Idowu olalekan jeremiah</a></li>
     <li><a href="https://github.com/Jaffmhan">Adeyemi Adedotun Oluwajafunmi</a></li>
     <li><a href="https://github.com/Queenhad">Olaoluwa Oluwatoyin Esther</a></li>
     <li><a href="#license">ADEGOKE NAFISAT MONINUOLA</a></li>
