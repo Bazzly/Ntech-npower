@@ -38,10 +38,10 @@
      </p>
      <div align="left">
      <ol>
-    <li><a href="#">Idowu olalekan jeremiah</a></li>
-    <li><a href="https://github.com/Jaffmhan/">Adeyemi Adedotun Oluwajafunmi</a></li>
-    <li><a href="#contributing">Olaoluwa Oluwatoyin Esther</a></li>
-    <li><a href="#license">ADEGOKE NAFISAT MONINUOLA</a></li>
+    <li><a href="https://github.com/oluwajerry081">Idowu olalekan jeremiah</a></li>
+    <li><a href="https://github.com/Jaffmhan">Adeyemi Adedotun Oluwajafunmi</a></li>
+    <li><a href="https://github.com/Queenhad">Olaoluwa Oluwatoyin Esther</a></li>
+    <li><a href="https://github.com/Monnyk2022">ADEGOKE NAFISAT MONINUOLA</a></li>
     </ol>
     </div>
     <br />
